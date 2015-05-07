@@ -28,6 +28,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="projectm.cf2.MainActivity" />
         </activity>
+        <activity
+            android:name=".LearnActivity"
+            android:label="@string/title_activity_learn"
+            android:parentActivityName=".ChapterActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="projectm.cf2.ChapterActivity" />
+        </activity>
     </application>
 
 </manifest>

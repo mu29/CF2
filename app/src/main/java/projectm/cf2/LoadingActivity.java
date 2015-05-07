@@ -14,7 +14,7 @@ public class LoadingActivity extends ActionBarActivity {
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        getSupportActionBar().hide();
+        if (getSupportActionBar() != null) getSupportActionBar().hide();
 
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
