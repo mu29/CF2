@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <chapter>1</chapter>
+        <word>你</word>
+        <pronunciation>nǐ</pronunciation>
+        <mean>you</mean>
+
+        <chapter>1</chapter>
+        <word>好</word>
+        <pronunciation>hǎo</pronunciation>
+        <mean>well; good</mean>
+
+        <chapter>1</chapter>
+        <word>您</word>
+        <pronunciation>nín</pronunciation>
+        <mean>you(polite)</mean>
+
+        <chapter>1</chapter>
+        <word>你们</word>        
+        <pronunciation>nǐ‧men</pronunciation>
+        <mean>you(plural)</mean>
+
+        <chapter>1</chapter>
+        <word>老师</word>        
+        <pronunciation>lǎoshī</pronunciation>
+        <mean>teacher</mean>
+
+        <chapter>1</chapter>
+        <word>谢谢</word>        
+        <pronunciation>xiè‧xie</pronunciation>
+        <mean>to thank</mean>
+
+        <chapter>1</chapter>
+        <word>不</word>        
+        <pronunciation>bù</pronunciation>
+        <mean>not</mean>
+
+        <chapter>1</chapter>
+        <word>客气</word>        
+        <pronunciation>kèqì</pronunciation>
+        <mean>polite; courteous</mean>
+
+        <chapter>1</chapter>
+        <word>不客气</word>        
+        <pronunciation>búkè‧qi</pronunciation>
+        <mean>Don't mention it; You're welcome</mean>
+
+        <chapter>1</chapter>
+        <word>对不起</word>        
+        <pronunciation>duì ‧bu qǐ</pronunciation>
+        <mean>I am sorry.</mean>
+
+        <chapter>1</chapter>
+        <word>没关系</word>        
+        <pronunciation>méi guān‧xi</pronunciation>
+        <mean>Don't mention it.</mean>
+
+        <chapter>1</chapter>
+        <word>再见</word>        
+        <pronunciation>zàijiàn</pronunciation>
+        <mean>good-bye</mean>
+
+        <chapter>1</chapter>
+        <word>请</word>        
+        <pronunciation>qǐng</pronunciation>
+        <mean>please</mean>
+
+        <chapter>1</chapter>
+        <word>进</word>        
+        <pronunciation>jìn</pronunciation>
+        <mean>to enter</mean>
+
+        <chapter>1</chapter>
+        <word>坐</word>        
+        <pronunciation>zuò</pronunciation>
+        <mean>to sit</mean>
+
+        <chapter>1</chapter>
+        <word>听</word>        
+        <pronunciation>tīng</pronunciation>
+        <mean>to listen</mean>
+
+        <chapter>1</chapter>
+        <word>说</word>        
+        <pronunciation>shuì</pronunciation>
+        <mean>to say</mean>
+
+        <chapter>1</chapter>
+        <word>读</word>        
+        <pronunciation>dòu</pronunciation>
+        <mean>to read</mean>
+
+        <chapter>1</chapter>
+        <word>写</word>        
+        <pronunciation>xiě</pronunciation>
+        <mean>to write</mean>
+
+        <chapter>2</chapter>
+        <word>吗</word>        
+        <pronunciation>má</pronunciation>
+        <mean>(a particle used at the end of a question)</mean>
+
+        <chapter>2</chapter>
+        <word>我</word>        
+        <pronunciation>wǒ</pronunciation>
+        <mean>I</mean>
+
+        <chapter>2</chapter>
+        <word>很</word>        
+        <pronunciation>hěn</pronunciation>
+        <mean>very</mean>
+
+        <chapter>2</chapter>
+        <word>呢</word>        
+        <pronunciation>‧ne</pronunciation>
+        <mean>(a particle used at the end of special, alternative, or rhetorical question)</mean>
+
+        <chapter>2</chapter>
+        <word>也</word>        
+        <pronunciation>yě</pronunciation>
+        <mean>too, also</mean>
+
+        <chapter>2</chapter>
+        <word>爸爸</word>        
+        <pronunciation>bà‧ba</pronunciation>
+        <mean>father</mean>
+
+        <chapter>2</chapter>
+        <word>妈妈</word>        
+        <pronunciation>mā‧ma</pronunciation>
+        <mean>mother</mean>
+
+        <chapter>2</chapter>
+        <word>都</word>        
+        <pronunciation>dōu</pronunciation>
+        <mean>both; all</mean>
+
+        <chapter>2</chapter>
+        <word>他们</word>        
+        <pronunciation>tā‧men</pronunciation>
+        <mean>they; them</mean>
+
+        <chapter>2</chapter>
+        <word>哥哥</word>        
+        <pronunciation>gē‧ge</pronunciation>
+        <mean>elder brother</mean>
+
+        <chapter>2</chapter>
+        <word>他</word>        
+        <pronunciation>tā</pronunciation>
+        <mean>he; him</mean>
+
+        <chapter>2</chapter>
+        <word>姐姐</word>        
+        <pronunciation>jiě‧jie</pronunciation>
+        <mean>elder sister</mean>
+
+        <chapter>2</chapter>
+        <word>她</word>        
+        <pronunciation>tā</pronunciation>
+        <mean>she; her</mean>
+
+        <chapter>2</chapter>
+        <word>爱人</word>        
+        <pronunciation>àirén(r)</pronunciation>
+        <mean>husband or wife</mean>
+
+        <chapter>2</chapter>
+        <word>弟弟</word>        
+        <pronunciation>dì‧di</pronunciation>
+        <mean>younger sister</mean>
+
+        <chapter>2</chapter>
+        <word>妹妹</word>        
+        <pronunciation>mèi‧mei</pronunciation>
+        <mean>younger sister</mean>
+
+        <chapter>2</chapter>
+        <word>忙</word>        
+        <pronunciation>máng</pronunciation>
+        <mean>busy</mean>
+
+        <chapter>2</chapter>
+        <word>累</word>        
+        <pronunciation>léi</pronunciation>
+        <mean>tired</mean>
+
+        <chapter>2</chapter>
+        <word>饿</word>        
+        <pronunciation>è</pronunciation>
+        <mean>hungry</mean>
+
+        <chapter>2</chapter>
+        <word>渴</word>        
+        <pronunciation>kě</pronunciation>
+        <mean>thirsty</mean>
+
+        <chapter>3</chapter>
+        <word>吃</word>        
+        <pronunciation>chī</pronunciation>
+        <mean>to eat</mean>
+
+        <chapter>3</chapter>
+        <word>什么</word>        
+        <pronunciation>shén‧me</pronunciation>
+        <mean>what</mean>
+
+        <chapter>3</chapter>
+        <word>饺子</word>        
+        <pronunciation>jiǎo‧zi</pronunciation>
+        <mean>dumpling(with meat and vegetable stuffing)</mean>
+
+        <chapter>3</chapter>
+        <word>米饭</word>        
+        <pronunciation>mǐfàn</pronunciation>
+        <mean>cooked rice</mean>
+
+        <chapter>3</chapter>
+        <word>面条</word>        
+        <pronunciation>miàntiáo(r)</pronunciation>
+        <mean>nuddle</mean>
+
+        <chapter>3</chapter>
+        <word>面包</word>        
+        <pronunciation>miànbāo</pronunciation>
+        <mean>bread</mean>
+
+        <chapter>3</chapter>
+        <word>包子</word>        
+        <pronunciation>bāo‧zi</pronunciation>
+        <mean>stuffed bun</mean>
+
+        <chapter>3</chapter>
+        <word>喝</word>        
+        <pronunciation>hē</pronunciation>
+        <mean>to drink</mean>
+
+        <chapter>3</chapter>
+        <word>啤酒</word>        
+        <pronunciation>píjiǔ</pronunciation>
+        <mean>beer</mean>
+
+        <chapter>3</chapter>
+        <word>茶</word>        
+        <pronunciation>chá</pronunciation>
+        <mean>tea</mean>
+
+        <chapter>3</chapter>
+        <word>咖啡</word>        
+        <pronunciation>kāfēi</pronunciation>
+        <mean>coffee</mean>
+
+        <chapter>3</chapter>
+        <word>矿泉水</word>        
+        <pronunciation>kuàngquánshuǐ</pronunciation>
+        <mean>mineral water</mean>
+
+        <chapter>3</chapter>
+        <word>牛奶</word>        
+        <pronunciation>niúnǎi</pronunciation>
+        <mean>milk</mean>
+
+        <chapter>3</chapter>
+        <word>买</word>        
+        <pronunciation>mǎi</pronunciation>
+        <mean>to buy</mean>
+
+        <chapter>3</chapter>
+        <word>词典</word>        
+        <pronunciation>cídiǎn</pronunciation>
+        <mean>dictionary</mean>
+
+        <chapter>3</chapter>
+        <word>本子</word>        
+        <pronunciation>běn‧zi</pronunciation>
+        <mean>notebook</mean>
+
+        <chapter>3</chapter>
+        <word>书</word>        
+        <pronunciation>shū</pronunciation>
+        <mean>book</mean>
+
+        <chapter>3</chapter>
+        <word>笔</word>        
+        <pronunciation>bǐ</pronunciation>
+        <mean>pen</mean>
+
+        <chapter>3</chapter>
+        <word>书包</word>        
+        <pronunciation>shūbāo</pronunciation>
+        <mean>schoolbag</mean>
+
+        <chapter>3</chapter>
+        <word>可口可乐</word>        
+        <pronunciation>kěkǒu kělè</pronunciation>
+        <mean>Coca-cola</mean>
+
+        <chapter>4</chapter>
+        <word>要</word>        
+        <pronunciation>yāo</pronunciation>
+        <mean>to want</mean>
+
+        <chapter>4</chapter>
+        <word>换</word>        
+        <pronunciation>huàn</pronunciation>
+        <mean>to change</mean>
+
+        <chapter>4</chapter>
+        <word>钱</word>        
+        <pronunciation>qián</pronunciation>
+        <mean>money</mean>
+
+        <chapter>4</chapter>
+        <word>多少</word>        
+        <pronunciation>duōshǎo</pronunciation>
+        <mean>how much; how many</mean>
+
+        <chapter>4</chapter>
+        <word>一</word>        
+        <pronunciation>yī</pronunciation>
+        <mean>one</mean>
+
+        <chapter>4</chapter>
+        <word>百</word>        
+        <pronunciation>bǎi</pronunciation>
+        <mean>hundred</mean>
+
+        <chapter>4</chapter>
+        <word>美元</word>        
+        <pronunciation>měiyuán</pronunciation>
+        <mean>US dollar</mean>
+
+        <chapter>4</chapter>
+        <word>二</word>        
+        <pronunciation>èr</pronunciation>
+        <mean>two</mean>
+
+        <chapter>4</chapter>
+        <word>三</word>        
+        <pronunciation>sān</pronunciation>
+        <mean>three</mean>
+
+        <chapter>4</chapter>
+        <word>四</word>        
+        <pronunciation>sì</pronunciation>
+        <mean>four</mean>
+
+        <chapter>4</chapter>
+        <word>五</word>        
+        <pronunciation>wǔ</pronunciation>
+        <mean>five</mean>
+
+        <chapter>4</chapter>
+        <word>两</word>        
+        <pronunciation>liǎng</pronunciation>
+        <mean>er</mean>
+
+        <chapter>4</chapter>
+        <word>杯</word>        
+        <pronunciation>bēi</pronunciation>
+        <mean>cup; glass</mean>
+
+        <chapter>4</chapter>
+        <word>块</word>        
+        <pronunciation>kuài</pronunciation>
+        <mean>yuan(the basic monetary unit of China)</mean>
+
+        <chapter>4</chapter>
+        <word>个</word>        
+        <pronunciation>gě</pronunciation>
+        <mean>(a measure word most extensively used)</mean>
+
+        <chapter>4</chapter>
+        <word>六</word>        
+        <pronunciation>liù</pronunciation>
+        <mean>six</mean>
+
+        <chapter>4</chapter>
+        <word>毛(角)</word>        
+        <pronunciation>máo]/[jiǎo</pronunciation>
+        <mean>mao/jian(the fractional monetary unit of China, = 1/10 of a yuan)</mean>
+
+        <chapter>4</chapter>
+        <word>瓶</word>        
+        <pronunciation>píng</pronunciation>
+        <mean>bottle</mean>
+
+        <chapter>4</chapter>
+        <word>七</word>        
+        <pronunciation>qī</pronunciation>
+        <mean>seven</mean>
+
+        <chapter>4</chapter>
+        <word>八</word>        
+        <pronunciation>bā</pronunciation>
+        <mean>eight</mean>
+
+        <chapter>4</chapter>
+        <word>本</word>        
+        <pronunciation>běn</pronunciation>
+        <mean>(a measure word for books,etc.)</mean>
+
+        <chapter>4</chapter>
+        <word>九</word>        
+        <pronunciation>jiǔ</pronunciation>
+        <mean>nine</mean>
+
+        <chapter>4</chapter>
+        <word>十</word>        
+        <pronunciation>shí</pronunciation>
+        <mean>ten</mean>
+
+        <chapter>4</chapter>
+        <word>分</word>        
+        <pronunciation>fēn</pronunciation>
+        <mean>fen(the fractional monetary unit of China, = 1/10 of a jiao</mean>
+
+        <chapter>5</chapter>
+        <word>请问</word>        
+        <pronunciation>qǐngwèn</pronunciation>
+        <mean>Excuse me.</mean>
+
+        <chapter>5</chapter>
+        <word>图书馆</word>        
+        <pronunciation>túshūguǎn</pronunciation>
+        <mean>library</mean>
+
+        <chapter>5</chapter>
+        <word>在</word>        
+        <pronunciation>zài</pronunciation>
+        <mean>to exist; to be at, in or on a place</mean>
+
+        <chapter>5</chapter>
+        <word>哪儿</word>        
+        <pronunciation>nǎr</pronunciation>
+        <mean>where</mean>
+
+        <chapter>5</chapter>
+        <word>就</word>        
+        <pronunciation>jiù</pronunciation>
+        <mean>just</mean>
+
+        <chapter>5</chapter>
+        <word>那儿</word>        
+        <pronunciation>nàr</pronunciation>
+        <mean>there</mean>
+
+        <chapter>5</chapter>
+        <word>食堂</word>        
+        <pronunciation>shítáng</pronunciation>
+        <mean>dining hall</mean>
+
+        <chapter>5</chapter>
+        <word>留学生</word>        
+        <pronunciation>liúxuéshēng</pronunciation>
+        <mean>overseas student</mean>
+
+        <chapter>5</chapter>
+        <word>宿舍</word>        
+        <pronunciation>sùshè</pronunciation>
+        <mean>dormitory</mean>
+
+        <chapter>5</chapter>
+        <word>办公室</word>        
+        <pronunciation>bàngōngshì</pronunciation>
+        <mean>office</mean>
+
+        <chapter>5</chapter>
+        <word>楼</word>        
+        <pronunciation>lóu</pronunciation>
+        <mean>building</mean>
+
+        <chapter>5</chapter>
+        <word>邮局</word>        
+        <pronunciation>yóujú</pronunciation>
+        <mean>post office</mean>
+
+        <chapter>5</chapter>
+        <word>银行</word>        
+        <pronunciation>yínháng</pronunciation>
+        <mean>bank</mean>
+
+        <chapter>5</chapter>
+        <word>医院</word>        
+        <pronunciation>yīyuàn</pronunciation>
+        <mean>hospital</mean>
+
+        <chapter>5</chapter>
+        <word>商店</word>        
+        <pronunciation>shāngdiàn</pronunciation>
+        <mean>shop</mean>
+
+        <chapter>5</chapter>
+        <word>书店</word>        
+        <pronunciation>shūdiàn</pronunciation>
+        <mean>bookshop</mean>
+
+        <chapter>5</chapter>
+        <word>知道</word>        
+        <pronunciation>zhī‧dào</pronunciation>
+        <mean>to know</mean>
+
+        <chapter>5</chapter>
+        <word>去</word>        
+        <pronunciation>qù</pronunciation>
+        <mean>to go</mean>
+
+        <chapter>6</chapter>
+        <word>认识</word>        
+        <pronunciation>rèn‧shi</pronunciation>
+        <mean>to meet; to know</mean>
+
+        <chapter>6</chapter>
+        <word>高兴</word>        
+        <pronunciation>gāoxìng</pronunciation>
+        <mean>happy</mean>
+
+        <chapter>6</chapter>
+        <word>来</word>        
+        <pronunciation>lái</pronunciation>
+        <mean>(used before a verb, indicating an intended action)</mean>
+
+        <chapter>6</chapter>
+        <word>介绍</word>        
+        <pronunciation>jièshào</pronunciation>
+        <mean>to introduce</mean>
+
+        <chapter>6</chapter>
+        <word>一下儿</word>        
+        <pronunciation>yi xiàr</pronunciation>
+        <mean>(indicates that an action is brief, slight)</mean>
+
+        <chapter>6</chapter>
+        <word>是</word>        
+        <pronunciation>shì</pronunciation>
+        <mean>to be</mean>
+
+        <chapter>6</chapter>
+        <word>学习</word>        
+        <pronunciation>xuéxí</pronunciation>
+        <mean>to learn; learning</mean>
+
+        <chapter>6</chapter>
+        <word>汉语</word>        
+        <pronunciation>Hànyǔ</pronunciation>
+        <mean>Chinese language</mean>
+
+        <chapter>6</chapter>
+        <word>班</word>        
+        <pronunciation>bān</pronunciation>
+        <mean>class</mean>
+
+        <chapter>6</chapter>
+        <word>的</word>        
+        <pronunciation>‧de</pronunciation>
+        <mean>of</mean>
+
+        <chapter>6</chapter>
+        <word>学生</word>        
+        <pronunciation>xué‧sheng</pronunciation>
+        <mean>student</mean>
+
+        <chapter>6</chapter>
+        <word>这</word>        
+        <pronunciation>zhè</pronunciation>
+        <mean>this</mean>
+
+        <chapter>6</chapter>
+        <word>我们</word>        
+        <pronunciation>wǒ‧men</pronunciation>
+        <mean>we; us</mean>
+
+        <chapter>6</chapter>
+        <word>那</word>        
+        <pronunciation>nā</pronunciation>
+        <mean>that</mean>
+
+        <chapter>6</chapter>
+        <word>朋友</word>        
+        <pronunciation>péng‧you</pronunciation>
+        <mean>friend</mean>
+
+        <chapter>6</chapter>
+        <word>和</word>        
+        <pronunciation>hé</pronunciation>
+        <mean>and</mean>
+
+        <chapter>6</chapter>
+        <word>人</word>        
+        <pronunciation>rén</pronunciation>
+        <mean>people</mean>
+
+        <chapter>6</chapter>
+        <word>教室</word>        
+        <pronunciation>jiàoshì</pronunciation>
+        <mean>classroom</mean>
+
+        <chapter>6</chapter>
+        <word>大</word>        
+        <pronunciation>dà</pronunciation>
+        <mean>big</mean>
+
+        <chapter>6</chapter>
+        <word>新</word>        
+        <pronunciation>xīn</pronunciation>
+        <mean>new</mean>
+
+        <chapter>6</chapter>
+        <word>同学</word>        
+        <pronunciation>tóngxué</pronunciation>
+        <mean>classmate</mean>
+
+        <chapter>6</chapter>
+        <word>厚</word>        
+        <pronunciation>hòu</pronunciation>
+        <mean>thick</mean>
+
+        <chapter>6</chapter>
+        <word>漂亮</word>        
+        <pronunciation>piào‧liang</pronunciation>
+        <mean>pretty; beautiful</mean>
+
+        <chapter>6</chapter>
+        <word>极了</word>        
+        <pronunciation>jí‧le</pronunciation>
+        <mean>extremely</mean>
+
+        <chapter>6</chapter>
+        <word>女儿</word>        
+        <pronunciation>nǚ’ér</pronunciation>
+        <mean>daughter</mean>
+
+        <chapter>6</chapter>
+        <word>聪明</word>        
+        <pronunciation>cōng‧ming</pronunciation>
+        <mean>clever</mean>
+
+        <chapter>6</chapter>
+        <word>可爱</word>        
+        <pronunciation>kě’ài</pronunciation>
+        <mean>lovely</mean>
+
+        <chapter>6</chapter>
+        <word>看</word>        
+        <pronunciation>kān</pronunciation>
+        <mean>to look</mean>
+
+        <chapter>6</chapter>
+        <word>帅</word>        
+        <pronunciation>shuài</pronunciation>
+        <mean>handsome</mean>
+
+        <chapter>6</chapter>
+        <word>小</word>        
+        <pronunciation>xiǎo</pronunciation>
+        <mean>small; little; (a prefix showing endearment for young people)</mean>
+    </string-array>
+</resources>
