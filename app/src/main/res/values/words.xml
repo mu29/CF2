@@ -1,659 +1,659 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="words">
-        <chapter>1</chapter>
-        <word>你</word>
-        <pronunciation>nǐ</pronunciation>
-        <mean>you</mean>
-
-        <chapter>1</chapter>
-        <word>好</word>
-        <pronunciation>hǎo</pronunciation>
-        <mean>well; good</mean>
-
-        <chapter>1</chapter>
-        <word>您</word>
-        <pronunciation>nín</pronunciation>
-        <mean>you(polite)</mean>
-
-        <chapter>1</chapter>
-        <word>你们</word>        
-        <pronunciation>nǐ‧men</pronunciation>
-        <mean>you(plural)</mean>
-
-        <chapter>1</chapter>
-        <word>老师</word>        
-        <pronunciation>lǎoshī</pronunciation>
-        <mean>teacher</mean>
-
-        <chapter>1</chapter>
-        <word>谢谢</word>        
-        <pronunciation>xiè‧xie</pronunciation>
-        <mean>to thank</mean>
-
-        <chapter>1</chapter>
-        <word>不</word>        
-        <pronunciation>bù</pronunciation>
-        <mean>not</mean>
-
-        <chapter>1</chapter>
-        <word>客气</word>        
-        <pronunciation>kèqì</pronunciation>
-        <mean>polite; courteous</mean>
-
-        <chapter>1</chapter>
-        <word>不客气</word>        
-        <pronunciation>búkè‧qi</pronunciation>
-        <mean>Don't mention it; You're welcome</mean>
-
-        <chapter>1</chapter>
-        <word>对不起</word>        
-        <pronunciation>duì ‧bu qǐ</pronunciation>
-        <mean>I am sorry.</mean>
-
-        <chapter>1</chapter>
-        <word>没关系</word>        
-        <pronunciation>méi guān‧xi</pronunciation>
-        <mean>Don't mention it.</mean>
-
-        <chapter>1</chapter>
-        <word>再见</word>        
-        <pronunciation>zàijiàn</pronunciation>
-        <mean>good-bye</mean>
-
-        <chapter>1</chapter>
-        <word>请</word>        
-        <pronunciation>qǐng</pronunciation>
-        <mean>please</mean>
-
-        <chapter>1</chapter>
-        <word>进</word>        
-        <pronunciation>jìn</pronunciation>
-        <mean>to enter</mean>
-
-        <chapter>1</chapter>
-        <word>坐</word>        
-        <pronunciation>zuò</pronunciation>
-        <mean>to sit</mean>
-
-        <chapter>1</chapter>
-        <word>听</word>        
-        <pronunciation>tīng</pronunciation>
-        <mean>to listen</mean>
-
-        <chapter>1</chapter>
-        <word>说</word>        
-        <pronunciation>shuì</pronunciation>
-        <mean>to say</mean>
-
-        <chapter>1</chapter>
-        <word>读</word>        
-        <pronunciation>dòu</pronunciation>
-        <mean>to read</mean>
-
-        <chapter>1</chapter>
-        <word>写</word>        
-        <pronunciation>xiě</pronunciation>
-        <mean>to write</mean>
-
-        <chapter>2</chapter>
-        <word>吗</word>        
-        <pronunciation>má</pronunciation>
-        <mean>(a particle used at the end of a question)</mean>
-
-        <chapter>2</chapter>
-        <word>我</word>        
-        <pronunciation>wǒ</pronunciation>
-        <mean>I</mean>
-
-        <chapter>2</chapter>
-        <word>很</word>        
-        <pronunciation>hěn</pronunciation>
-        <mean>very</mean>
-
-        <chapter>2</chapter>
-        <word>呢</word>        
-        <pronunciation>‧ne</pronunciation>
-        <mean>(a particle used at the end of special, alternative, or rhetorical question)</mean>
-
-        <chapter>2</chapter>
-        <word>也</word>        
-        <pronunciation>yě</pronunciation>
-        <mean>too, also</mean>
-
-        <chapter>2</chapter>
-        <word>爸爸</word>        
-        <pronunciation>bà‧ba</pronunciation>
-        <mean>father</mean>
-
-        <chapter>2</chapter>
-        <word>妈妈</word>        
-        <pronunciation>mā‧ma</pronunciation>
-        <mean>mother</mean>
-
-        <chapter>2</chapter>
-        <word>都</word>        
-        <pronunciation>dōu</pronunciation>
-        <mean>both; all</mean>
-
-        <chapter>2</chapter>
-        <word>他们</word>        
-        <pronunciation>tā‧men</pronunciation>
-        <mean>they; them</mean>
-
-        <chapter>2</chapter>
-        <word>哥哥</word>        
-        <pronunciation>gē‧ge</pronunciation>
-        <mean>elder brother</mean>
-
-        <chapter>2</chapter>
-        <word>他</word>        
-        <pronunciation>tā</pronunciation>
-        <mean>he; him</mean>
-
-        <chapter>2</chapter>
-        <word>姐姐</word>        
-        <pronunciation>jiě‧jie</pronunciation>
-        <mean>elder sister</mean>
-
-        <chapter>2</chapter>
-        <word>她</word>        
-        <pronunciation>tā</pronunciation>
-        <mean>she; her</mean>
-
-        <chapter>2</chapter>
-        <word>爱人</word>        
-        <pronunciation>àirén(r)</pronunciation>
-        <mean>husband or wife</mean>
-
-        <chapter>2</chapter>
-        <word>弟弟</word>        
-        <pronunciation>dì‧di</pronunciation>
-        <mean>younger sister</mean>
-
-        <chapter>2</chapter>
-        <word>妹妹</word>        
-        <pronunciation>mèi‧mei</pronunciation>
-        <mean>younger sister</mean>
-
-        <chapter>2</chapter>
-        <word>忙</word>        
-        <pronunciation>máng</pronunciation>
-        <mean>busy</mean>
-
-        <chapter>2</chapter>
-        <word>累</word>        
-        <pronunciation>léi</pronunciation>
-        <mean>tired</mean>
-
-        <chapter>2</chapter>
-        <word>饿</word>        
-        <pronunciation>è</pronunciation>
-        <mean>hungry</mean>
-
-        <chapter>2</chapter>
-        <word>渴</word>        
-        <pronunciation>kě</pronunciation>
-        <mean>thirsty</mean>
-
-        <chapter>3</chapter>
-        <word>吃</word>        
-        <pronunciation>chī</pronunciation>
-        <mean>to eat</mean>
-
-        <chapter>3</chapter>
-        <word>什么</word>        
-        <pronunciation>shén‧me</pronunciation>
-        <mean>what</mean>
-
-        <chapter>3</chapter>
-        <word>饺子</word>        
-        <pronunciation>jiǎo‧zi</pronunciation>
-        <mean>dumpling(with meat and vegetable stuffing)</mean>
-
-        <chapter>3</chapter>
-        <word>米饭</word>        
-        <pronunciation>mǐfàn</pronunciation>
-        <mean>cooked rice</mean>
-
-        <chapter>3</chapter>
-        <word>面条</word>        
-        <pronunciation>miàntiáo(r)</pronunciation>
-        <mean>nuddle</mean>
-
-        <chapter>3</chapter>
-        <word>面包</word>        
-        <pronunciation>miànbāo</pronunciation>
-        <mean>bread</mean>
-
-        <chapter>3</chapter>
-        <word>包子</word>        
-        <pronunciation>bāo‧zi</pronunciation>
-        <mean>stuffed bun</mean>
-
-        <chapter>3</chapter>
-        <word>喝</word>        
-        <pronunciation>hē</pronunciation>
-        <mean>to drink</mean>
-
-        <chapter>3</chapter>
-        <word>啤酒</word>        
-        <pronunciation>píjiǔ</pronunciation>
-        <mean>beer</mean>
-
-        <chapter>3</chapter>
-        <word>茶</word>        
-        <pronunciation>chá</pronunciation>
-        <mean>tea</mean>
-
-        <chapter>3</chapter>
-        <word>咖啡</word>        
-        <pronunciation>kāfēi</pronunciation>
-        <mean>coffee</mean>
-
-        <chapter>3</chapter>
-        <word>矿泉水</word>        
-        <pronunciation>kuàngquánshuǐ</pronunciation>
-        <mean>mineral water</mean>
-
-        <chapter>3</chapter>
-        <word>牛奶</word>        
-        <pronunciation>niúnǎi</pronunciation>
-        <mean>milk</mean>
-
-        <chapter>3</chapter>
-        <word>买</word>        
-        <pronunciation>mǎi</pronunciation>
-        <mean>to buy</mean>
-
-        <chapter>3</chapter>
-        <word>词典</word>        
-        <pronunciation>cídiǎn</pronunciation>
-        <mean>dictionary</mean>
-
-        <chapter>3</chapter>
-        <word>本子</word>        
-        <pronunciation>běn‧zi</pronunciation>
-        <mean>notebook</mean>
-
-        <chapter>3</chapter>
-        <word>书</word>        
-        <pronunciation>shū</pronunciation>
-        <mean>book</mean>
-
-        <chapter>3</chapter>
-        <word>笔</word>        
-        <pronunciation>bǐ</pronunciation>
-        <mean>pen</mean>
-
-        <chapter>3</chapter>
-        <word>书包</word>        
-        <pronunciation>shūbāo</pronunciation>
-        <mean>schoolbag</mean>
-
-        <chapter>3</chapter>
-        <word>可口可乐</word>        
-        <pronunciation>kěkǒu kělè</pronunciation>
-        <mean>Coca-cola</mean>
-
-        <chapter>4</chapter>
-        <word>要</word>        
-        <pronunciation>yāo</pronunciation>
-        <mean>to want</mean>
-
-        <chapter>4</chapter>
-        <word>换</word>        
-        <pronunciation>huàn</pronunciation>
-        <mean>to change</mean>
-
-        <chapter>4</chapter>
-        <word>钱</word>        
-        <pronunciation>qián</pronunciation>
-        <mean>money</mean>
-
-        <chapter>4</chapter>
-        <word>多少</word>        
-        <pronunciation>duōshǎo</pronunciation>
-        <mean>how much; how many</mean>
-
-        <chapter>4</chapter>
-        <word>一</word>        
-        <pronunciation>yī</pronunciation>
-        <mean>one</mean>
-
-        <chapter>4</chapter>
-        <word>百</word>        
-        <pronunciation>bǎi</pronunciation>
-        <mean>hundred</mean>
-
-        <chapter>4</chapter>
-        <word>美元</word>        
-        <pronunciation>měiyuán</pronunciation>
-        <mean>US dollar</mean>
-
-        <chapter>4</chapter>
-        <word>二</word>        
-        <pronunciation>èr</pronunciation>
-        <mean>two</mean>
-
-        <chapter>4</chapter>
-        <word>三</word>        
-        <pronunciation>sān</pronunciation>
-        <mean>three</mean>
-
-        <chapter>4</chapter>
-        <word>四</word>        
-        <pronunciation>sì</pronunciation>
-        <mean>four</mean>
-
-        <chapter>4</chapter>
-        <word>五</word>        
-        <pronunciation>wǔ</pronunciation>
-        <mean>five</mean>
-
-        <chapter>4</chapter>
-        <word>两</word>        
-        <pronunciation>liǎng</pronunciation>
-        <mean>er</mean>
-
-        <chapter>4</chapter>
-        <word>杯</word>        
-        <pronunciation>bēi</pronunciation>
-        <mean>cup; glass</mean>
-
-        <chapter>4</chapter>
-        <word>块</word>        
-        <pronunciation>kuài</pronunciation>
-        <mean>yuan(the basic monetary unit of China)</mean>
-
-        <chapter>4</chapter>
-        <word>个</word>        
-        <pronunciation>gě</pronunciation>
-        <mean>(a measure word most extensively used)</mean>
-
-        <chapter>4</chapter>
-        <word>六</word>        
-        <pronunciation>liù</pronunciation>
-        <mean>six</mean>
-
-        <chapter>4</chapter>
-        <word>毛(角)</word>        
-        <pronunciation>máo]/[jiǎo</pronunciation>
-        <mean>mao/jian(the fractional monetary unit of China, = 1/10 of a yuan)</mean>
-
-        <chapter>4</chapter>
-        <word>瓶</word>        
-        <pronunciation>píng</pronunciation>
-        <mean>bottle</mean>
-
-        <chapter>4</chapter>
-        <word>七</word>        
-        <pronunciation>qī</pronunciation>
-        <mean>seven</mean>
-
-        <chapter>4</chapter>
-        <word>八</word>        
-        <pronunciation>bā</pronunciation>
-        <mean>eight</mean>
-
-        <chapter>4</chapter>
-        <word>本</word>        
-        <pronunciation>běn</pronunciation>
-        <mean>(a measure word for books,etc.)</mean>
-
-        <chapter>4</chapter>
-        <word>九</word>        
-        <pronunciation>jiǔ</pronunciation>
-        <mean>nine</mean>
-
-        <chapter>4</chapter>
-        <word>十</word>        
-        <pronunciation>shí</pronunciation>
-        <mean>ten</mean>
-
-        <chapter>4</chapter>
-        <word>分</word>        
-        <pronunciation>fēn</pronunciation>
-        <mean>fen(the fractional monetary unit of China, = 1/10 of a jiao</mean>
-
-        <chapter>5</chapter>
-        <word>请问</word>        
-        <pronunciation>qǐngwèn</pronunciation>
-        <mean>Excuse me.</mean>
-
-        <chapter>5</chapter>
-        <word>图书馆</word>        
-        <pronunciation>túshūguǎn</pronunciation>
-        <mean>library</mean>
-
-        <chapter>5</chapter>
-        <word>在</word>        
-        <pronunciation>zài</pronunciation>
-        <mean>to exist; to be at, in or on a place</mean>
-
-        <chapter>5</chapter>
-        <word>哪儿</word>        
-        <pronunciation>nǎr</pronunciation>
-        <mean>where</mean>
-
-        <chapter>5</chapter>
-        <word>就</word>        
-        <pronunciation>jiù</pronunciation>
-        <mean>just</mean>
-
-        <chapter>5</chapter>
-        <word>那儿</word>        
-        <pronunciation>nàr</pronunciation>
-        <mean>there</mean>
-
-        <chapter>5</chapter>
-        <word>食堂</word>        
-        <pronunciation>shítáng</pronunciation>
-        <mean>dining hall</mean>
-
-        <chapter>5</chapter>
-        <word>留学生</word>        
-        <pronunciation>liúxuéshēng</pronunciation>
-        <mean>overseas student</mean>
-
-        <chapter>5</chapter>
-        <word>宿舍</word>        
-        <pronunciation>sùshè</pronunciation>
-        <mean>dormitory</mean>
-
-        <chapter>5</chapter>
-        <word>办公室</word>        
-        <pronunciation>bàngōngshì</pronunciation>
-        <mean>office</mean>
-
-        <chapter>5</chapter>
-        <word>楼</word>        
-        <pronunciation>lóu</pronunciation>
-        <mean>building</mean>
-
-        <chapter>5</chapter>
-        <word>邮局</word>        
-        <pronunciation>yóujú</pronunciation>
-        <mean>post office</mean>
-
-        <chapter>5</chapter>
-        <word>银行</word>        
-        <pronunciation>yínháng</pronunciation>
-        <mean>bank</mean>
-
-        <chapter>5</chapter>
-        <word>医院</word>        
-        <pronunciation>yīyuàn</pronunciation>
-        <mean>hospital</mean>
-
-        <chapter>5</chapter>
-        <word>商店</word>        
-        <pronunciation>shāngdiàn</pronunciation>
-        <mean>shop</mean>
-
-        <chapter>5</chapter>
-        <word>书店</word>        
-        <pronunciation>shūdiàn</pronunciation>
-        <mean>bookshop</mean>
-
-        <chapter>5</chapter>
-        <word>知道</word>        
-        <pronunciation>zhī‧dào</pronunciation>
-        <mean>to know</mean>
-
-        <chapter>5</chapter>
-        <word>去</word>        
-        <pronunciation>qù</pronunciation>
-        <mean>to go</mean>
-
-        <chapter>6</chapter>
-        <word>认识</word>        
-        <pronunciation>rèn‧shi</pronunciation>
-        <mean>to meet; to know</mean>
-
-        <chapter>6</chapter>
-        <word>高兴</word>        
-        <pronunciation>gāoxìng</pronunciation>
-        <mean>happy</mean>
-
-        <chapter>6</chapter>
-        <word>来</word>        
-        <pronunciation>lái</pronunciation>
-        <mean>(used before a verb, indicating an intended action)</mean>
-
-        <chapter>6</chapter>
-        <word>介绍</word>        
-        <pronunciation>jièshào</pronunciation>
-        <mean>to introduce</mean>
-
-        <chapter>6</chapter>
-        <word>一下儿</word>        
-        <pronunciation>yi xiàr</pronunciation>
-        <mean>(indicates that an action is brief, slight)</mean>
-
-        <chapter>6</chapter>
-        <word>是</word>        
-        <pronunciation>shì</pronunciation>
-        <mean>to be</mean>
-
-        <chapter>6</chapter>
-        <word>学习</word>        
-        <pronunciation>xuéxí</pronunciation>
-        <mean>to learn; learning</mean>
-
-        <chapter>6</chapter>
-        <word>汉语</word>        
-        <pronunciation>Hànyǔ</pronunciation>
-        <mean>Chinese language</mean>
-
-        <chapter>6</chapter>
-        <word>班</word>        
-        <pronunciation>bān</pronunciation>
-        <mean>class</mean>
-
-        <chapter>6</chapter>
-        <word>的</word>        
-        <pronunciation>‧de</pronunciation>
-        <mean>of</mean>
-
-        <chapter>6</chapter>
-        <word>学生</word>        
-        <pronunciation>xué‧sheng</pronunciation>
-        <mean>student</mean>
-
-        <chapter>6</chapter>
-        <word>这</word>        
-        <pronunciation>zhè</pronunciation>
-        <mean>this</mean>
-
-        <chapter>6</chapter>
-        <word>我们</word>        
-        <pronunciation>wǒ‧men</pronunciation>
-        <mean>we; us</mean>
-
-        <chapter>6</chapter>
-        <word>那</word>        
-        <pronunciation>nā</pronunciation>
-        <mean>that</mean>
-
-        <chapter>6</chapter>
-        <word>朋友</word>        
-        <pronunciation>péng‧you</pronunciation>
-        <mean>friend</mean>
-
-        <chapter>6</chapter>
-        <word>和</word>        
-        <pronunciation>hé</pronunciation>
-        <mean>and</mean>
-
-        <chapter>6</chapter>
-        <word>人</word>        
-        <pronunciation>rén</pronunciation>
-        <mean>people</mean>
-
-        <chapter>6</chapter>
-        <word>教室</word>        
-        <pronunciation>jiàoshì</pronunciation>
-        <mean>classroom</mean>
-
-        <chapter>6</chapter>
-        <word>大</word>        
-        <pronunciation>dà</pronunciation>
-        <mean>big</mean>
-
-        <chapter>6</chapter>
-        <word>新</word>        
-        <pronunciation>xīn</pronunciation>
-        <mean>new</mean>
-
-        <chapter>6</chapter>
-        <word>同学</word>        
-        <pronunciation>tóngxué</pronunciation>
-        <mean>classmate</mean>
-
-        <chapter>6</chapter>
-        <word>厚</word>        
-        <pronunciation>hòu</pronunciation>
-        <mean>thick</mean>
-
-        <chapter>6</chapter>
-        <word>漂亮</word>        
-        <pronunciation>piào‧liang</pronunciation>
-        <mean>pretty; beautiful</mean>
-
-        <chapter>6</chapter>
-        <word>极了</word>        
-        <pronunciation>jí‧le</pronunciation>
-        <mean>extremely</mean>
-
-        <chapter>6</chapter>
-        <word>女儿</word>        
-        <pronunciation>nǚ’ér</pronunciation>
-        <mean>daughter</mean>
-
-        <chapter>6</chapter>
-        <word>聪明</word>        
-        <pronunciation>cōng‧ming</pronunciation>
-        <mean>clever</mean>
-
-        <chapter>6</chapter>
-        <word>可爱</word>        
-        <pronunciation>kě’ài</pronunciation>
-        <mean>lovely</mean>
-
-        <chapter>6</chapter>
-        <word>看</word>        
-        <pronunciation>kān</pronunciation>
-        <mean>to look</mean>
-
-        <chapter>6</chapter>
-        <word>帅</word>        
-        <pronunciation>shuài</pronunciation>
-        <mean>handsome</mean>
-
-        <chapter>6</chapter>
-        <word>小</word>        
-        <pronunciation>xiǎo</pronunciation>
-        <mean>small; little; (a prefix showing endearment for young people)</mean>
+        <item>1</item>
+        <item>你</item>
+        <item>nǐ</item>
+        <item>you</item>
+
+        <item>1</item>
+        <item>好</item>
+        <item>hǎo</item>
+        <item>well; good</item>
+
+        <item>1</item>
+        <item>您</item>
+        <item>nín</item>
+        <item>you(polite)</item>
+
+        <item>1</item>
+        <item>你们</item>        
+        <item>nǐ‧men</item>
+        <item>you(plural)</item>
+
+        <item>1</item>
+        <item>老师</item>        
+        <item>lǎoshī</item>
+        <item>teacher</item>
+
+        <item>1</item>
+        <item>谢谢</item>        
+        <item>xiè‧xie</item>
+        <item>to thank</item>
+
+        <item>1</item>
+        <item>不</item>        
+        <item>bù</item>
+        <item>not</item>
+
+        <item>1</item>
+        <item>客气</item>        
+        <item>kèqì</item>
+        <item>polite; courteous</item>
+
+        <item>1</item>
+        <item>不客气</item>        
+        <item>búkè‧qi</item>
+        <item>Don't mention it; You're welcome</item>
+
+        <item>1</item>
+        <item>对不起</item>        
+        <item>duì ‧bu qǐ</item>
+        <item>I am sorry.</item>
+
+        <item>1</item>
+        <item>没关系</item>        
+        <item>méi guān‧xi</item>
+        <item>Don't mention it.</item>
+
+        <item>1</item>
+        <item>再见</item>        
+        <item>zàijiàn</item>
+        <item>good-bye</item>
+
+        <item>1</item>
+        <item>请</item>        
+        <item>qǐng</item>
+        <item>please</item>
+
+        <item>1</item>
+        <item>进</item>        
+        <item>jìn</item>
+        <item>to enter</item>
+
+        <item>1</item>
+        <item>坐</item>        
+        <item>zuò</item>
+        <item>to sit</item>
+
+        <item>1</item>
+        <item>听</item>        
+        <item>tīng</item>
+        <item>to listen</item>
+
+        <item>1</item>
+        <item>说</item>        
+        <item>shuì</item>
+        <item>to say</item>
+
+        <item>1</item>
+        <item>读</item>        
+        <item>dòu</item>
+        <item>to read</item>
+
+        <item>1</item>
+        <item>写</item>        
+        <item>xiě</item>
+        <item>to write</item>
+
+        <item>2</item>
+        <item>吗</item>        
+        <item>má</item>
+        <item>(a particle used at the end of a question)</item>
+
+        <item>2</item>
+        <item>我</item>        
+        <item>wǒ</item>
+        <item>I</item>
+
+        <item>2</item>
+        <item>很</item>        
+        <item>hěn</item>
+        <item>very</item>
+
+        <item>2</item>
+        <item>呢</item>        
+        <item>‧ne</item>
+        <item>(a particle used at the end of special, alternative, or rhetorical question)</item>
+
+        <item>2</item>
+        <item>也</item>        
+        <item>yě</item>
+        <item>too, also</item>
+
+        <item>2</item>
+        <item>爸爸</item>        
+        <item>bà‧ba</item>
+        <item>father</item>
+
+        <item>2</item>
+        <item>妈妈</item>        
+        <item>mā‧ma</item>
+        <item>mother</item>
+
+        <item>2</item>
+        <item>都</item>        
+        <item>dōu</item>
+        <item>both; all</item>
+
+        <item>2</item>
+        <item>他们</item>        
+        <item>tā‧men</item>
+        <item>they; them</item>
+
+        <item>2</item>
+        <item>哥哥</item>        
+        <item>gē‧ge</item>
+        <item>elder brother</item>
+
+        <item>2</item>
+        <item>他</item>        
+        <item>tā</item>
+        <item>he; him</item>
+
+        <item>2</item>
+        <item>姐姐</item>        
+        <item>jiě‧jie</item>
+        <item>elder sister</item>
+
+        <item>2</item>
+        <item>她</item>        
+        <item>tā</item>
+        <item>she; her</item>
+
+        <item>2</item>
+        <item>爱人</item>        
+        <item>àirén(r)</item>
+        <item>husband or wife</item>
+
+        <item>2</item>
+        <item>弟弟</item>        
+        <item>dì‧di</item>
+        <item>younger sister</item>
+
+        <item>2</item>
+        <item>妹妹</item>        
+        <item>mèi‧mei</item>
+        <item>younger sister</item>
+
+        <item>2</item>
+        <item>忙</item>        
+        <item>máng</item>
+        <item>busy</item>
+
+        <item>2</item>
+        <item>累</item>        
+        <item>léi</item>
+        <item>tired</item>
+
+        <item>2</item>
+        <item>饿</item>        
+        <item>è</item>
+        <item>hungry</item>
+
+        <item>2</item>
+        <item>渴</item>        
+        <item>kě</item>
+        <item>thirsty</item>
+
+        <item>3</item>
+        <item>吃</item>        
+        <item>chī</item>
+        <item>to eat</item>
+
+        <item>3</item>
+        <item>什么</item>        
+        <item>shén‧me</item>
+        <item>what</item>
+
+        <item>3</item>
+        <item>饺子</item>        
+        <item>jiǎo‧zi</item>
+        <item>dumpling(with meat and vegetable stuffing)</item>
+
+        <item>3</item>
+        <item>米饭</item>        
+        <item>mǐfàn</item>
+        <item>cooked rice</item>
+
+        <item>3</item>
+        <item>面条</item>        
+        <item>miàntiáo(r)</item>
+        <item>nuddle</item>
+
+        <item>3</item>
+        <item>面包</item>        
+        <item>miànbāo</item>
+        <item>bread</item>
+
+        <item>3</item>
+        <item>包子</item>        
+        <item>bāo‧zi</item>
+        <item>stuffed bun</item>
+
+        <item>3</item>
+        <item>喝</item>        
+        <item>hē</item>
+        <item>to drink</item>
+
+        <item>3</item>
+        <item>啤酒</item>        
+        <item>píjiǔ</item>
+        <item>beer</item>
+
+        <item>3</item>
+        <item>茶</item>        
+        <item>chá</item>
+        <item>tea</item>
+
+        <item>3</item>
+        <item>咖啡</item>        
+        <item>kāfēi</item>
+        <item>coffee</item>
+
+        <item>3</item>
+        <item>矿泉水</item>        
+        <item>kuàngquánshuǐ</item>
+        <item>mineral water</item>
+
+        <item>3</item>
+        <item>牛奶</item>        
+        <item>niúnǎi</item>
+        <item>milk</item>
+
+        <item>3</item>
+        <item>买</item>        
+        <item>mǎi</item>
+        <item>to buy</item>
+
+        <item>3</item>
+        <item>词典</item>        
+        <item>cídiǎn</item>
+        <item>dictionary</item>
+
+        <item>3</item>
+        <item>本子</item>        
+        <item>běn‧zi</item>
+        <item>notebook</item>
+
+        <item>3</item>
+        <item>书</item>        
+        <item>shū</item>
+        <item>book</item>
+
+        <item>3</item>
+        <item>笔</item>        
+        <item>bǐ</item>
+        <item>pen</item>
+
+        <item>3</item>
+        <item>书包</item>        
+        <item>shūbāo</item>
+        <item>schoolbag</item>
+
+        <item>3</item>
+        <item>可口可乐</item>        
+        <item>kěkǒu kělè</item>
+        <item>Coca-cola</item>
+
+        <item>4</item>
+        <item>要</item>        
+        <item>yāo</item>
+        <item>to want</item>
+
+        <item>4</item>
+        <item>换</item>        
+        <item>huàn</item>
+        <item>to change</item>
+
+        <item>4</item>
+        <item>钱</item>        
+        <item>qián</item>
+        <item>money</item>
+
+        <item>4</item>
+        <item>多少</item>        
+        <item>duōshǎo</item>
+        <item>how much; how many</item>
+
+        <item>4</item>
+        <item>一</item>        
+        <item>yī</item>
+        <item>one</item>
+
+        <item>4</item>
+        <item>百</item>        
+        <item>bǎi</item>
+        <item>hundred</item>
+
+        <item>4</item>
+        <item>美元</item>        
+        <item>měiyuán</item>
+        <item>US dollar</item>
+
+        <item>4</item>
+        <item>二</item>        
+        <item>èr</item>
+        <item>two</item>
+
+        <item>4</item>
+        <item>三</item>        
+        <item>sān</item>
+        <item>three</item>
+
+        <item>4</item>
+        <item>四</item>        
+        <item>sì</item>
+        <item>four</item>
+
+        <item>4</item>
+        <item>五</item>        
+        <item>wǔ</item>
+        <item>five</item>
+
+        <item>4</item>
+        <item>两</item>        
+        <item>liǎng</item>
+        <item>er</item>
+
+        <item>4</item>
+        <item>杯</item>        
+        <item>bēi</item>
+        <item>cup; glass</item>
+
+        <item>4</item>
+        <item>块</item>        
+        <item>kuài</item>
+        <item>yuan(the basic monetary unit of China)</item>
+
+        <item>4</item>
+        <item>个</item>        
+        <item>gě</item>
+        <item>(a measure item most extensively used)</item>
+
+        <item>4</item>
+        <item>六</item>        
+        <item>liù</item>
+        <item>six</item>
+
+        <item>4</item>
+        <item>毛(角)</item>        
+        <item>máo]/[jiǎo</item>
+        <item>mao/jian(the fractional monetary unit of China, = 1/10 of a yuan)</item>
+
+        <item>4</item>
+        <item>瓶</item>        
+        <item>píng</item>
+        <item>bottle</item>
+
+        <item>4</item>
+        <item>七</item>        
+        <item>qī</item>
+        <item>seven</item>
+
+        <item>4</item>
+        <item>八</item>        
+        <item>bā</item>
+        <item>eight</item>
+
+        <item>4</item>
+        <item>本</item>        
+        <item>běn</item>
+        <item>(a measure item for books,etc.)</item>
+
+        <item>4</item>
+        <item>九</item>        
+        <item>jiǔ</item>
+        <item>nine</item>
+
+        <item>4</item>
+        <item>十</item>        
+        <item>shí</item>
+        <item>ten</item>
+
+        <item>4</item>
+        <item>分</item>        
+        <item>fēn</item>
+        <item>fen(the fractional monetary unit of China, = 1/10 of a jiao</item>
+
+        <item>5</item>
+        <item>请问</item>        
+        <item>qǐngwèn</item>
+        <item>Excuse me.</item>
+
+        <item>5</item>
+        <item>图书馆</item>        
+        <item>túshūguǎn</item>
+        <item>library</item>
+
+        <item>5</item>
+        <item>在</item>        
+        <item>zài</item>
+        <item>to exist; to be at, in or on a place</item>
+
+        <item>5</item>
+        <item>哪儿</item>        
+        <item>nǎr</item>
+        <item>where</item>
+
+        <item>5</item>
+        <item>就</item>        
+        <item>jiù</item>
+        <item>just</item>
+
+        <item>5</item>
+        <item>那儿</item>        
+        <item>nàr</item>
+        <item>there</item>
+
+        <item>5</item>
+        <item>食堂</item>        
+        <item>shítáng</item>
+        <item>dining hall</item>
+
+        <item>5</item>
+        <item>留学生</item>        
+        <item>liúxuéshēng</item>
+        <item>overseas student</item>
+
+        <item>5</item>
+        <item>宿舍</item>        
+        <item>sùshè</item>
+        <item>dormitory</item>
+
+        <item>5</item>
+        <item>办公室</item>        
+        <item>bàngōngshì</item>
+        <item>office</item>
+
+        <item>5</item>
+        <item>楼</item>        
+        <item>lóu</item>
+        <item>building</item>
+
+        <item>5</item>
+        <item>邮局</item>        
+        <item>yóujú</item>
+        <item>post office</item>
+
+        <item>5</item>
+        <item>银行</item>        
+        <item>yínháng</item>
+        <item>bank</item>
+
+        <item>5</item>
+        <item>医院</item>        
+        <item>yīyuàn</item>
+        <item>hospital</item>
+
+        <item>5</item>
+        <item>商店</item>        
+        <item>shāngdiàn</item>
+        <item>shop</item>
+
+        <item>5</item>
+        <item>书店</item>        
+        <item>shūdiàn</item>
+        <item>bookshop</item>
+
+        <item>5</item>
+        <item>知道</item>        
+        <item>zhī‧dào</item>
+        <item>to know</item>
+
+        <item>5</item>
+        <item>去</item>        
+        <item>qù</item>
+        <item>to go</item>
+
+        <item>6</item>
+        <item>认识</item>        
+        <item>rèn‧shi</item>
+        <item>to meet; to know</item>
+
+        <item>6</item>
+        <item>高兴</item>        
+        <item>gāoxìng</item>
+        <item>happy</item>
+
+        <item>6</item>
+        <item>来</item>        
+        <item>lái</item>
+        <item>(used before a verb, indicating an intended action)</item>
+
+        <item>6</item>
+        <item>介绍</item>        
+        <item>jièshào</item>
+        <item>to introduce</item>
+
+        <item>6</item>
+        <item>一下儿</item>        
+        <item>yi xiàr</item>
+        <item>(indicates that an action is brief, slight)</item>
+
+        <item>6</item>
+        <item>是</item>        
+        <item>shì</item>
+        <item>to be</item>
+
+        <item>6</item>
+        <item>学习</item>        
+        <item>xuéxí</item>
+        <item>to learn; learning</item>
+
+        <item>6</item>
+        <item>汉语</item>        
+        <item>Hànyǔ</item>
+        <item>Chinese language</item>
+
+        <item>6</item>
+        <item>班</item>        
+        <item>bān</item>
+        <item>class</item>
+
+        <item>6</item>
+        <item>的</item>        
+        <item>‧de</item>
+        <item>of</item>
+
+        <item>6</item>
+        <item>学生</item>        
+        <item>xué‧sheng</item>
+        <item>student</item>
+
+        <item>6</item>
+        <item>这</item>        
+        <item>zhè</item>
+        <item>this</item>
+
+        <item>6</item>
+        <item>我们</item>        
+        <item>wǒ‧men</item>
+        <item>we; us</item>
+
+        <item>6</item>
+        <item>那</item>        
+        <item>nā</item>
+        <item>that</item>
+
+        <item>6</item>
+        <item>朋友</item>        
+        <item>péng‧you</item>
+        <item>friend</item>
+
+        <item>6</item>
+        <item>和</item>        
+        <item>hé</item>
+        <item>and</item>
+
+        <item>6</item>
+        <item>人</item>        
+        <item>rén</item>
+        <item>people</item>
+
+        <item>6</item>
+        <item>教室</item>        
+        <item>jiàoshì</item>
+        <item>classroom</item>
+
+        <item>6</item>
+        <item>大</item>        
+        <item>dà</item>
+        <item>big</item>
+
+        <item>6</item>
+        <item>新</item>        
+        <item>xīn</item>
+        <item>new</item>
+
+        <item>6</item>
+        <item>同学</item>        
+        <item>tóngxué</item>
+        <item>classmate</item>
+
+        <item>6</item>
+        <item>厚</item>        
+        <item>hòu</item>
+        <item>thick</item>
+
+        <item>6</item>
+        <item>漂亮</item>        
+        <item>piào‧liang</item>
+        <item>pretty; beautiful</item>
+
+        <item>6</item>
+        <item>极了</item>        
+        <item>jí‧le</item>
+        <item>extremely</item>
+
+        <item>6</item>
+        <item>女儿</item>        
+        <item>nǚ’ér</item>
+        <item>daughter</item>
+
+        <item>6</item>
+        <item>聪明</item>        
+        <item>cōng‧ming</item>
+        <item>clever</item>
+
+        <item>6</item>
+        <item>可爱</item>        
+        <item>kě’ài</item>
+        <item>lovely</item>
+
+        <item>6</item>
+        <item>看</item>        
+        <item>kān</item>
+        <item>to look</item>
+
+        <item>6</item>
+        <item>帅</item>        
+        <item>shuài</item>
+        <item>handsome</item>
+
+        <item>6</item>
+        <item>小</item>        
+        <item>xiǎo</item>
+        <item>small; little; (a prefix showing endearment for young people)</item>
     </string-array>
 </resources>
